@@ -7,7 +7,7 @@ export default function Hero() {
   const slides = [
     {
       title: "정의와 신뢰의 법률 파트너",
-      subtitle: "30년 전통, 승소율 95%의 김&이 법률사무소",
+      subtitle: "30년 전통, 승소율 95%의 송지훈 법률사무소",
       bg: "bg-gradient-to-r from-slate-900 to-slate-700"
     },
     {
